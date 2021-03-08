@@ -25,7 +25,7 @@ class Home extends StatelessWidget {
                 child: Column(
                   children: [
                     Container(
-                      height: 150,
+                      height: 50,
                       color: Colors.redAccent,
                     ),
                     images[index],
