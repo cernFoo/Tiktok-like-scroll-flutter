@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tiktok_scroll/tiktoklikescroller.dart';
+import 'package:tiktoklikescroller/tiktoklikescroller.dart';
 
 class Home extends StatelessWidget {
   final List<Image> images;
